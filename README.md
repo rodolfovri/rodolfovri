@@ -2,7 +2,7 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a final-year student pursuing a degree in Computer Science and Engineering. I am passionate about programming and have an interest in both backend and frontend development. I love learning new technologies and creating innovative, productive solutions while building creative projects.
+I am a final-year student pursuing a degree in Computer and Systems Engineering. I am passionate about programming and have an interest in both backend and frontend development. I love learning new technologies and creating innovative, productive solutions while building creative projects.
 - 🌱 I’m currently learning ...
   - Kotlin
 - 👯 I’m looking forward to collaborate on open source projects.
