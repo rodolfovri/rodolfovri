@@ -52,7 +52,7 @@ I am a final-year student pursuing a degree in Computer Science and Engineering.
 
 
 <h2 style="margin: 5px 10px;">Github stats:</h2> 
-<div align="center">
+<div>
 
 
 [![](https://github-readme-stats.vercel.app/api?username=rodolfovri&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/rodolfovri)
