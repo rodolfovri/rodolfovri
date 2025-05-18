@@ -4,7 +4,7 @@
 
 I am a final-year student pursuing a degree in Computer and Systems Engineering. I am passionate about programming and have an interest in both backend and frontend development. I love learning new technologies and creating innovative, productive solutions while building creative projects.
 - 🌱 I’m currently learning ...
-  - Kotlin
+  - Spring Boot
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, 🎵 I enjoy listening to music, 🎮 playing video games, and 🌴 spending time with my family and friends.
@@ -20,6 +20,7 @@ I am a final-year student pursuing a degree in Computer and Systems Engineering.
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
 </span>
 
 <h4> Frameworks </h4>
